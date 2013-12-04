@@ -1,0 +1,13 @@
+PODS:
+  - AppleGuice (1.0.0)
+  - MAObjCRuntime (0.0.1)
+
+DEPENDENCIES:
+  - AppleGuice (= 1.0.0)
+  - MAObjCRuntime (= 0.0.1)
+
+SPEC CHECKSUMS:
+  AppleGuice: e7d1c1d6c4e59b5481a669b91ad10275d8249352
+  MAObjCRuntime: 284004079156d10cb8237bc3ffcfa3a0e1a0af22
+
+COCOAPODS: 0.28.0
