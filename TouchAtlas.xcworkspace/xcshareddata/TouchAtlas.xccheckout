@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>631FE4DF-CAB3-46B7-9C16-B0816C721602</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TouchAtlas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>733FF0DA-F66E-469A-993A-E08CD10E2166</key>
+		<string>ssh://github.com/111minutes/TouchAtlas.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TouchAtlas.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>733FF0DA-F66E-469A-993A-E08CD10E2166</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/111minutes/TouchAtlas.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>733FF0DA-F66E-469A-993A-E08CD10E2166</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>733FF0DA-F66E-469A-993A-E08CD10E2166</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TouchAtlas</string>
+		</dict>
+	</array>
+</dict>
+</plist>

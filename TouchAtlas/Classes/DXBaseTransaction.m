@@ -10,8 +10,8 @@
 #import "DXTransaction.h"
 #import "DXBaseTransaction.h"
 #import "DXTransactionDispatcher.h"
-#import "MARTNSObject.h"
-#import "RTProperty.h"
+#import <MAObjCRuntime/MARTNSObject.h>
+#import <MAObjCRuntime/RTProperty.h>
 
 @interface DXBaseTransaction ()
 

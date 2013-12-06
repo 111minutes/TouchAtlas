@@ -5,10 +5,9 @@
 // To change the template use AppCode | Preferences | File Templates.
 //
 
-
+#import <MAObjCRuntime/MARTNSObject.h>
+#import <MAObjCRuntime/RTProperty.h>
 #import "DXPropertyValidator.h"
-#import "MARTNSObject.h"
-#import "RTProperty.h"
 #import "DXPropertyNotNilValidator.h"
 
 @interface DXPropertyValidator ()
